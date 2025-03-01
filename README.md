@@ -3,10 +3,13 @@
 <!--
 **Lynnnnn-n/Lynnnnn-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+-->
 
 - 如无必要，勿增实体
 - 这里是小林的主页，喜欢编程，游戏，
+
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
