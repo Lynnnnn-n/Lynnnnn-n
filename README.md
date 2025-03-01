@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+- 如无必要，勿增实体
+- 这里是小林的主页，喜欢编程，游戏，
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
